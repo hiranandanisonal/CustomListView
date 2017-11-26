@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+
+    <string-array name="versions">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Icecream Sandwich</item>
+        <item>Jelly Bean</item>
+        <item>Kit Kat</item>
+    </string-array>
+
+
+
+
+</resources>
+
+
